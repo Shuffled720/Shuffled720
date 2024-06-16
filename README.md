@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying in **IIT Indore**
 
-- 🌱 I’m currently learning **Game Development, Mobile App development, Blockchain**
+- 🌱 I’m currently learning **Game Development, Competitive programming, Blockchain**
 
 - 📫 How to reach me **ee210002083@iiti.ac.in**
 
