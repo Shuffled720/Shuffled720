@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuffled720" alt="shuffled720" /></a> </p>
 
-- 🔭 I’m currently studying in **IIT Indore**
+- 💼 Working as Software Engineer at Globallogic
+
+- 🔭 Graduate from **IIT Indore**
 
 - 🌱 I’m currently learning **Game Development, Competitive programming, Blockchain**
 
