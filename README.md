@@ -9,9 +9,9 @@
 
 - 🔭 Graduate from **IIT Indore**
 
-- 🌱 I’m currently learning **Game Development, Competitive programming, Blockchain**
+- 🌱 I’m currently learning **Problem solving, Software development, Competitive programming, Blockchain**
 
-- 📫 How to reach me **ee210002083@iiti.ac.in**
+- 📫 How to reach me **shuffled720@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
